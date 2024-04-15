@@ -18,8 +18,8 @@ End the program
   wrtie a program to find a solution to a system of linear equation 5x-3y-10z=9,2x+2y-3z=4,-3x-y+5z=-1
 ## Program:
 ```
-Developed by:yogavarma.B
-RegisterNumber:2305002026
+Developed by:kavipriya s.p
+RegisterNumber:2305002011
 ```
 ```python
  import numpy as np
@@ -29,7 +29,8 @@ RegisterNumber:2305002026
 ```
 
 ## Output:
-![image](https://github.com/kavipriyasp07/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155508590/352a0a84-4dcd-4ef3-af43-0ddccd99eb94)
+![image](https://github.com/kavipriyasp07/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155508590/36d6206b-2262-4120-93f2-221c9548b416)
+
 
 
 
