@@ -22,10 +22,11 @@ Developed by:kavipriya s.p
 RegisterNumber:2305002011
 ```
 ```python
- import numpy as np
+import numpy as np
  A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
- rank=np.linalg.matrix_rank(A)
- print(rank)
+ B=np.array([-9,4,-1])
+ solu=np.linalg.solve(A,B)
+ print(solu)
 ```
 
 ## Output:
