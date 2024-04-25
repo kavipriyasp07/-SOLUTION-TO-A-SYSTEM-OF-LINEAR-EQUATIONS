@@ -1,5 +1,5 @@
 # -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
-# Date:
+# Date:02/03/2024
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
